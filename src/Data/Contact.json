@@ -1,14 +1,14 @@
 [
     {
         "name": "nama sendiri",
-        "phone": "nomor telepone",
+        "phone": "nomor telepon",
         "email": "email sendiri",
         "image": "https://cdn-icons-png.flaticon.com/512/4553/4553197.png"
     },
     {
-        "name": "andi",
+        "name": "Andi Yusuf Rachman",
         "phone": "08533093",
-        "email": "email mu",
+        "email": "anditamvan@yahoo.com",
         "image": "https://cdn-icons-png.flaticon.com/512/4553/4553331.png"
     },
     {
@@ -18,9 +18,9 @@
         "image": "https://cdn-icons-png.flaticon.com/512/1391/1391333.png"
     },
     {
-        "name": "virza Arga ",
+        "name": "Virgoun ",
         "phone": "087645090876",
-        "email": "arga980@gmail.com",
+        "email": "VirEakk@gmail.com",
         "image": "https://cdn-icons-png.flaticon.com/512/5821/5821228.png"
     }
 ]
